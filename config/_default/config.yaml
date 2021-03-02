@@ -5,7 +5,10 @@
 
 title: 'Gregory J. Smith' # Website name
 baseurl: 'https://gregory-j-smith.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'Copyright 2021, <a href=\"https://gregory-j-smith.netlify.app\" target=\"_blank\">Gregory Smith</a>.' # Footer text, e.g. '© {year} Me'
+licenseIcon: '/img/cc-by.svg'
+licenseURL: 'https://creativecommons.org/licenses/by/4.0/'
+licenseTitle: 'Creative Commons Attribution License'
 
 ############################
 ## LANGUAGE
