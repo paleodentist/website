@@ -14,7 +14,7 @@ organizations:
   url: https://www.schools.mnps.org/john-overton-high-school
 
 # Short bio (displayed in user profile at end of posts)
-bio: Instructor of Interdisciplinary Science and Research. Interested in 🐘 paleoecology and Cenozoic biotic crises. Backpacker, climber, and aspiring nerd.
+bio: Instructor of Interdisciplinary Science and Research at John Overton High School. Backpacker, climber, and aspiring nerd.
 
 # Interests to show in About widget
 interests:
@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Earth and Environmental Sciences
+    institution: Vanderbilt University
+    year: 2019
+  - course: MS in Geobiology
+    institution: Penn State Uninversity
+    year: 2015
+  - course: BSc in Geosciences
+    institution: Penn State Uninversity
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,26 +42,26 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:Gregory.Smith2@mnps.org
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/paleodentist
+- icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Gregory-Smith-2
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/paleodentist
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/gregory-james-smith
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
