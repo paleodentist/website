@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: gregory.smith2@mnps.org
-phone: (570) 762-2445
+phone: (615) 333-5135
 address:
   street: 4820 Franklin Road
   city: Nashville
@@ -30,11 +30,11 @@ address:
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Room 275
-office_hours:
-  - 'Monday through Friday 7:00 to 8:20 AM'
+  latitude: '36.079060'
+  longitude: '-86.769390'
+#directions: Room 275
+#office_hours:
+#  - 'Monday through Friday 7:00 to 8:20 AM'
 appointment_url: 'https://outlook.office365.com/owa/calendar/InterdisciplinaryScienceandResearchProgram@K12MNPS.onmicrosoft.com/bookings/'
 contact_links:
   - icon: twitter
