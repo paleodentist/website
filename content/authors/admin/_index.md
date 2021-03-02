@@ -6,7 +6,7 @@ title: Gregory Smith
 superuser: true
 
 # Role/position/tagline
-role: Instructor, Interdisciplinary Science and Research Program
+role: Instructor \ Interdisciplinary Science and Research Program
 
 # Organizations/Affiliations to show in About widget
 organizations:
