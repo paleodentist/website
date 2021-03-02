@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Gregory Smith
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Instructor, Interdisciplinary Science and Research Program
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: John Overton High School
+  url: https://www.schools.mnps.org/john-overton-high-school
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Instructor of Interdisciplinary Science and Research. Interested in 🐘 paleoecology and Cenozoic biotic crises. Backpacker, climber, and aspiring nerd.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Conservation Paleobiology
+- Quantitative Paleoecology
+- Ecosystem Change Over Time
 
 # Education to show in About widget
 education:
